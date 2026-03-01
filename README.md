@@ -12,14 +12,13 @@ This project allows users to manage student records through a menu-driven comman
 - 🏗️ Structured using OOP principles
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 - Python 3.x
 - Object-Oriented Programming (Classes & Methods)
 - Command Line Interface
 
-📂 Project Structure
+📂 Project Structure:
 - Student-Management-System/
-│
 ├── student_management.py
 └── README.md
 
@@ -43,19 +42,18 @@ The program runs in a loop and provides the following menu:
 4. Exit
 
 ✔ Add Student:
+- Enter student name
+- Enter roll number
+- Enter marks
 
-Enter student name
-Enter roll number
-Enter marks
+✔ Update Marks:
+- Enter roll number
+- Enter new marks
 
-✔ Update Marks
-Enter roll number
-Enter new marks
+✔ Show All Students:
+- Displays details of all added students
 
-✔ Show All Students
-Displays details of all added students
-
-🧠 OOP Concepts Used
+🧠 OOP Concepts Used:
 - Classes & Objects
 - Class Variables
 - Class Methods (@classmethod)
@@ -63,19 +61,19 @@ Displays details of all added students
 - Encapsulation
 - Menu-driven program structure
 
-🎯 Learning Outcome
+🎯 Learning Outcome:
 - This project helped me strengthen my understanding of:
 - Object-Oriented Programming in Python
 - Managing data using class-level lists
 - Writing structured and reusable code
 - Building interactive CLI applications
 
-🔮 Future Improvements
+🔮 Future Improvements:
 - Add file handling to store data permanently
 - Implement delete student feature
 - Add input validation
 - Build a GUI version using Tkinter
 - Convert into a web-based application using Flask/FastAPI
 
-👨‍💻 Author : 
+👨‍💻 Author: 
 - Vikram Kushwaha - Aspiring Python Developer & Data Science Enthusiast

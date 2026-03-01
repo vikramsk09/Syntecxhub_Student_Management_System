@@ -4,45 +4,46 @@ A simple Student Management System built using Python and Object-Oriented Progra
 This project allows users to manage student records through a menu-driven command-line interface.
 
 📌 Features
-➕ Add new students
-✏️ Update student marks
-🔍 Search students by roll number
-📋 Display all student records
-🖥️ Interactive CLI (Command Line Interface)
-🏗️ Structured using OOP principles
+- ➕ Add new students
+- ✏️ Update student marks
+- 🔍 Search students by roll number
+- 📋 Display all student records
+- 🖥️ Interactive CLI (Command Line Interface)
+- 🏗️ Structured using OOP principles
 
 
 🛠️ Technologies Used
-Python 3.x
-Object-Oriented Programming (Classes & Methods)
-Command Line Interface
+- Python 3.x
+- Object-Oriented Programming (Classes & Methods)
+- Command Line Interface
 
 📂 Project Structure
-Student-Management-System/
+- Student-Management-System/
 │
 ├── student_management.py
 └── README.md
 
 
-🚀 How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/student-management-system.git
+🚀 How to Run the Project:
+1. 1️⃣ Clone the Repository
+- git clone https://github.com/your-username/student-management-system.git
 
-2️⃣ Navigate to the Project Folder
-cd student-management-system
+2. 2️⃣ Navigate to the Project Folder
+- cd student-management-system
 
-3️⃣ Run the Program
-python student_management.py
+3. 3️⃣ Run the Program
+- python student_management.py
 
 
-📖 How It Works
+📖 How It Works:
 The program runs in a loop and provides the following menu:
 1. Add Student
 2. Update Marks
 3. Show all Students
 4. Exit
 
-✔ Add Student
+✔ Add Student:
+
 Enter student name
 Enter roll number
 Enter marks
@@ -76,5 +77,5 @@ Displays details of all added students
 - Build a GUI version using Tkinter
 - Convert into a web-based application using Flask/FastAPI
 
-👨‍💻 Author : Vikram Kushwaha
-- Aspiring Python Developer & Data Science Enthusiast
+👨‍💻 Author : 
+- Vikram Kushwaha - Aspiring Python Developer & Data Science Enthusiast
